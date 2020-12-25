@@ -1,0 +1,11 @@
+{
+    '160.0x120.0': 'Supported',
+    '320.0x240.0': 'Supported',
+    '424.0x240.0': 'Supported',
+    '480.0x270.0': 'Supported',
+    '640.0x360.0': 'Supported',
+    '640.0x480.0': 'Supported',
+    '848.0x480.0': 'Supported',
+    '960.0x540.0': 'Supported',
+    '1280.0x720.0': 'Supported'
+}
